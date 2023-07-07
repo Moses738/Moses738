@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kmoses34144850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kmoses34144850" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Kammarikatha Mosha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moses k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kammarikathamosha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moses k" height="30" width="40" /></a>
 <a href="https://instagram.com/moses_k_97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moses_k_97" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/moses k @victoriousmoses1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="moses k @victoriousmoses1" height="30" width="40" /></a>
 <a href="https://discord.gg/MOSES K @victoriousmoses1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MOSES K @victoriousmoses1" height="30" width="40" /></a>
