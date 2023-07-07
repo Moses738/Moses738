@@ -1,4 +1,4 @@
-<img align="centre" src="https://w0.peakpx.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg">
+<img align="centre" src="https://wallpaperaccess.com/full/7167570.png">
 
 <h1 align="center">Hi 👋, I'm Moses</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
